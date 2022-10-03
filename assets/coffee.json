@@ -1,0 +1,52 @@
+{
+  "shops": [
+    {
+      "shopID": "1",
+      "shopName": "Coffee Space",
+      "shopDesc": "Nisi minim qui voluptate commodo non exercitation occaecat fugiat cillum.",
+      "shopImage": "https://images.unsplash.com/photo-1518057111178-44a106bad636?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+    },
+    {
+      "shopID": "2",
+      "shopName": "Coffee Bean and Tea Leaf",
+      "shopDesc": "asdfasdfasdf",
+      "shopImage": "https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "shopID": "3",
+      "shopName": "StarBucks",
+      "shopDesc": "lami ang starbucks",
+      "shopImage": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=761&q=80"
+    },
+    {
+      "shopID": "4",
+      "shopName": "Macao",
+      "shopDesc": "Way kape",
+      "shopImage": "https://images.unsplash.com/photo-1518057111178-44a106bad636?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+    },
+    {
+      "shopID": "5",
+      "shopName": "Naicha",
+      "shopDesc": "Di naman ni kape",
+      "shopImage": "https://images.unsplash.com/photo-1518057111178-44a106bad636?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+    },
+    {
+      "shopID": "6",
+      "shopName": "Milestone Coffee",
+      "shopDesc": "Upper Carmen",
+      "shopImage": "https://images.unsplash.com/photo-1518057111178-44a106bad636?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+    },
+    {
+      "shopID": "7",
+      "shopName": "CGY Coffee Space",
+      "shopDesc": "Test 7",
+      "shopImage": "https://images.unsplash.com/photo-1518057111178-44a106bad636?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+    },
+    {
+      "shopID": "8",
+      "shopName": "Proper Coffee Roasters",
+      "shopDesc": "Mastersons AVE",
+      "shopImage": "https://images.unsplash.com/photo-1518057111178-44a106bad636?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+    }
+  ]
+}
